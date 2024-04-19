@@ -4,3 +4,5 @@
 ## 作業說明
 * Lab1: Backpropagation
 * Lab2: Image Classification
+* Lab3: Binary Sentiment Classification
+
