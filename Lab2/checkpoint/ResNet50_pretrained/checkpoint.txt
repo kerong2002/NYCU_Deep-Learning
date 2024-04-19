@@ -1,0 +1,1 @@
+ResNet50_pretrained checkpoint store here!
