@@ -4,5 +4,6 @@
 ## 作業說明
 * Lab1: Backpropagation
 * Lab2: Image Classification
-* Lab3: Binary Sentiment Classification
+* Lab3: Binary Semantic Segmentation 
+* Lab4: CVAE for Video Generation
 
