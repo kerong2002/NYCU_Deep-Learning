@@ -5,5 +5,5 @@
 * Lab1: Backpropagation
 * Lab2: Image Classification
 * Lab3: Binary Semantic Segmentation 
-* Lab4: CVAE for Video Generation
+* Lab4: Conditional VAE for Vido Prediction
 
