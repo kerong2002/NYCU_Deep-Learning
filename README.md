@@ -6,4 +6,5 @@
 * Lab2: Image Classification
 * Lab3: Binary Semantic Segmentation 
 * Lab4: Conditional VAE for Video Prediction
+* MaskGIT for Image Inpainting
 
