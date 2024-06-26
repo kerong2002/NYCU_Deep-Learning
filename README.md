@@ -5,8 +5,12 @@
 * Lab1: Backpropagation
   * 107/110
 * Lab2: Image Classification
+  * 90/100
 * Lab3: Binary Semantic Segmentation 
   * 110/110
 * Lab4: Conditional VAE for Video Prediction
-* Lab5: MaskGIT for Image Inpainting
+  * 110/110
+* Lab5: MaskGIT for Image Inpainting  
+  * 110/110
 * Lab6: Generative Models
+  * 100/100
